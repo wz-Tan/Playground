@@ -1,0 +1,12 @@
+Created Struct to Hold Buffer to Represent Pixel Count
+Loaded Shaders (Fragment - Reflections, Vertex - Positioning)
+Loaded Texture (Skin for the Item)
+
+
+
+Uniform - Handle / Reference for OpenGL Item
+Gluint - ID for Item
+
+
+Command:
+g++ -o main main.cpp -std=c++11  -lglfw -lGLEW -lGL 
